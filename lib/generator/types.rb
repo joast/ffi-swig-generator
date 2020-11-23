@@ -5,8 +5,6 @@ module FFI
       'char' => ':char',
       'double' => ':double',
       'float' => ':float',
-      'unsigned long' => ':ulong',
-      'unsigned char' => ':uchar',
       'signed char' => ':char',
       'unsigned char' => ':uchar',
       'short' => ':short',
